@@ -16,3 +16,7 @@ P(w1, w2,...,wn) => P(w1) * P(w2|w1) * P(w3| w1, w2)....
 > Chain rule of prediction
 
 ![alt text](image-1.png)
+
+## Tokenizer
+
+![alt text](image-2.png)
