@@ -9,3 +9,10 @@ P(w1, w2,...,wn) => P(w1) * P(w2|w1) * P(w3| w1, w2)....
 ```
 
 ![alt text](image.png)
+
+> LLM's are auto regressive
+> LLM generate 1 token at a time based on the previous generated token.
+
+> Chain rule of prediction
+
+![alt text](image-1.png)
