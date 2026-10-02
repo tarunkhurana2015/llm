@@ -50,3 +50,10 @@ After every epoch, the new embedding will update.
 > E_new = E_old - learning_rate \* gradient
 
 ![alt text](image-3.png)
+
+## Summary
+
+1. `Tokenizer` - Splits the raw texts into tokens
+2. `Embedding Layer` - Embeddijng layer will create an embedding vector with the random values and the length will depndnd on the `d_model` value.
+3. `Transformer Layer` -
+4. `Loss Computation` - back propogation .
